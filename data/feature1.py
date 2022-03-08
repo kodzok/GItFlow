@@ -8,6 +8,10 @@ class FeatureCollector:
 
         pass
 
+    def _initialize_necessary_tables(self):
+
+        pass
+
     def collect(self):
         
         pass
